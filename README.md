@@ -1,6 +1,6 @@
 <h1>Design pattern Demos</h1>
 <p>This is an playground that i'm currently using to learn about all the different design patterns. </p>
-!-- FOLDER STRUCTURE -->
+
 <h2 id="folder-structure">
     Folder Structure
 </h2>
